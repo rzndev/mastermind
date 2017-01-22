@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterMind", "MasterMind.csproj", "{2484305D-4807-4639-84D1-0A275A1E0D21}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05A1D0E6-515E-4926-AFC5-7A7927BD3CB5}"
+	ProjectSection(SolutionItems) = preProject
+		MasterMind.vsd = MasterMind.vsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2484305D-4807-4639-84D1-0A275A1E0D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2484305D-4807-4639-84D1-0A275A1E0D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2484305D-4807-4639-84D1-0A275A1E0D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2484305D-4807-4639-84D1-0A275A1E0D21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
